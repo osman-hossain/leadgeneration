@@ -33,6 +33,7 @@
 <li> Leadiq contact data in one click
 <li> sign up or
 <li> minuteinbox.com
+</ol>
 
 ### best extractor
 
@@ -59,7 +60,7 @@ open automatically
 <li> email template 1 or 7kb
 <li> close
 <li> verified will sent and unverified will bounced
-<ol>  
+</ol>  
 
 </br>
 
@@ -72,7 +73,7 @@ open automatically
 <li> copy many things one by one together
 <li> to paste : ctrl + ` ( control + backtick)
 <li> open page : ctrl + a to select all delete to delete
-<ol>
+</ol>
 
 ### Hide & Unhide
 
@@ -92,3 +93,65 @@ open automatically
 - [x] company size: how many person work in the company
 
 - [x] 
+
+### google search advanced search method
+---
+
+-[x]
+
+<ol>
+<li> search on google
+<li> menue function 
+<li> tools : any time or all results
+<li> goto google.com setting cottom right corner
+<li> search setting
+<li> other setting, language and region
+<li> select region
+<li> ok
+</ol>
+
+- [x] 
+
+### prson/company person personal email address
+
+<ol>
+<li> Site: Platform “Title” “Mail Type” “Location”
+<li> Site: linkedin “CEO” “@gmail.com” “USA”
+<li> after searching on google ctrl+f to indicate only focusing. 
+<li> type @gmail.com only focus on it yellow color.
+<li>Site: roofing company "owner" "@email.com" "USA ohio"
+
+</ol>
+
+### Email  extractor chrome extention
+
+<ol>
+<li> install
+<li>
+</ol>
+
+### person business email
+
+domain firstname lastname email address
+
+ex. google.com sundar pichai email address
+
+ex. google.com ceo
+
+### company decision maker
+
+domain + decision maker
+
+### company email format search 
+
+company domain + email format 
+
+### linkedin x-ray search mathod
+
+<ol>
+<li> linkedin xray (search)
+<li> recruitment geek
+<li> search about person
+<li> ex. roofing companies in ohio usa
+</ol>
+
