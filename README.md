@@ -65,3 +65,30 @@ open automatically
 
 <image src="./images/verifyemail.png"/>
 
+### automatic collect data 
+
+<ol>
+<li> download and install ditto from sourceforge
+<li> copy many things one by one together
+<li> to paste : ctrl + ` ( control + backtick)
+<li> open page : ctrl + a to select all delete to delete
+<ol>
+
+### Hide & Unhide
+
+<ol>
+<li>select row or cell
+<li> ctrl + shift + right button to all select right column
+<li> ctrl + shift + down to all select down 
+<li> right click hide option to hide all
+<li> alternative, Menue + Home + Cells ribbon + Format Hide or Unhide
+<li> to unhide all
+<li> select ctrl+a (select all)
+<li> right click or menue home + cells ribbon + format + unhide to unhide all
+</ol>
+
+
+
+- [x] company size: how many person work in the company
+
+- [x] 
